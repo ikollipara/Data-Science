@@ -1,3 +1,4 @@
+th
 i
 me
 my
@@ -39,6 +40,7 @@ am
 is
 are
 was
+wa
 were
 be
 been
